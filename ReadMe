@@ -1,0 +1,15 @@
+Бот для karate kido 2
+
+used libraries and modules:
+    PIL, numpy, opencv-python, pywin32, tkinter
+
+setups:
+    -main.py: delay
+    -bot.py: speed
+Как запустить:
+
+    #пока работает только при разрешении 1920 * 1080 при других разрешениях нужно вручную вводить координаты бревен
+
+    установите все перечисленные пакеты
+
+    запустите файл main.ru
